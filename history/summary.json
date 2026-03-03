@@ -58,18 +58,20 @@
     "url": "https://000.is-a.dev",
     "icon": "https://icons.duckduckgo.com/ip3/000.is-a.dev.ico",
     "slug": "back-and-front-end-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 228,
-    "timeWeek": 222,
-    "timeMonth": 222,
-    "timeYear": 222,
-    "dailyMinutesDown": {}
+    "time": 203,
+    "timeDay": 146,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 203,
+    "dailyMinutesDown": {
+      "2026-03-03": 0
+    }
   },
   {
     "name": "IPv6 test",
