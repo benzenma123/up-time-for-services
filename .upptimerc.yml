@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Back & Front end Check
-    url: https://000.is-a.dev
+    url: https://benzenma123.github.io
   - name: IPv6 test
     url: forwardemail.net
     port: 80
